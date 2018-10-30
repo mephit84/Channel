@@ -10,6 +10,7 @@ namespace Channel
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("F1");
         }
     }
 }
